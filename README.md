@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 "# background-changer-reactapp" 
 
-# Deployed:
-<a href="https://background-changer-reactapp.vercel.app/" target="_blank">Click Here</a>
+# Deployed
+<a href="https://background-changer-reactapp.vercel.app/" target="_blank">Here</a>
